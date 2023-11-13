@@ -1,0 +1,21 @@
+.p{
+    font-style: oblique;
+    font-size: 40px;
+    width: fit-content;
+    height: 6vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    color: rgb(48, 2, 37);
+    box-shadow: rgb(47, 0, 255);
+}
+
+.tema{
+    color: brown;
+}
+
+.tipstorage {
+    font-style: italic;
+    font-size: 15px;
+    color: blue;
+}
